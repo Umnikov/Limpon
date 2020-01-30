@@ -1,3 +1,5 @@
+*{
+}
 body{
     font-family: 'Open Sans', sans-serif;
     text-align: left;
@@ -39,6 +41,7 @@ h2{
     font-size: 14px;
     color: #1085e4;
     display: block;
+    text-transform: uppercase;
 }
 .grid-item{
     font-size: 20px;
@@ -58,6 +61,7 @@ h2{
     font-weight: 800;
     display: block;
     color: #00bffe;
+    text-transform: uppercase;
 }
 .subscribe h2{
     color: #fff;
